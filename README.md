@@ -19,9 +19,9 @@ Desenvolvedor Fullstack com foco em aplicações web utilizando **Next.js** e **
 ## 📌 Sobre
 
 - Desenvolvimento Fullstack (frontend + backend)
-- APIs REST e autenticação com JWT
-- Integração com banco de dados (MySQL)
-- Em busca da primeira oportunidade como dev
+- APIs REST e autenticação
+- Integração com banco de dados
+
 
 ---
 
